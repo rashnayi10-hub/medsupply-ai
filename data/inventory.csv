@@ -1,0 +1,7 @@
+hospital_id,medicine_id,medicine_name,on_hand,reorder_point,lead_time_days,unit_cost
+H001,M001,Amoxicillin,65,40,5,3.25
+H001,M002,Saline,120,65,3,2.10
+H001,M003,Paracetamol,25,50,6,0.85
+H002,M001,Amoxicillin,160,50,5,3.25
+H002,M002,Saline,18,40,4,2.10
+H002,M003,Paracetamol,95,45,6,0.85
